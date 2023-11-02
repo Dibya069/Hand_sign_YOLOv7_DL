@@ -10,7 +10,7 @@ DATA_INGESTION_DIR_NAME: str = "data_ingestion"
 
 DATA_INGESTION_FEATURE_STORE_DIR: str = "feature_store"
 
-DATA_DOWNLOAD_URL: str = "https://github.com/Dibya069/store_data/raw/main/Hand_gasture.zip"
+DATA_DOWNLOAD_URL: str = "https://github.com/Dibya069/store_data/raw/main/Hand_gasture.zip" ## This folder have 20 imgs, I used another folder which have 88 imgs
 
 
 
