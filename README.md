@@ -15,4 +15,4 @@ New #``deeplearning`` ``computervision`` Project, Hand Sign Detection ( #``objec
           Testing Set: 5 images ] with **200 epochs**, **16 batch** size and **640 image** size.
 4. For Training I used ``#googlecolab`` #gpu..
 
-[![Watch the video](C:/Users/mohan/Videos/tom.mp4)]
+[Watch the video](data/tom.mp4)
