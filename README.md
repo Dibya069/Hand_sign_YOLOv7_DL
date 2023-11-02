@@ -15,4 +15,9 @@ New #``deeplearning`` ``computervision`` Project, Hand Sign Detection ( #``objec
           Testing Set: 5 images ] with **200 epochs**, **16 batch** size and **640 image** size.
 4. For Training I used ``#googlecolab`` #gpu..
 
-[](https://github.com/Dibya069/Hand_sign_detection/assets/121597961/1d01e01d-b2b8-4c66-97da-ed57247ab740)
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/Dibya069/Hand_sign_detection/assets/121597961/1d01e01d-b2b8-4c66-97da-ed57247ab740" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
